@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f1f5f9;
+}
+
+header {
+    background: #020617;
+    color: white;
+    padding: 20px;
+}
+
+nav button {
+    margin: 5px;
+    padding: 10px 15px;
+    background: #38bdf8;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+nav button:hover {
+    background: #0ea5e9;
+}
+
+main {
+    padding: 20px;
+}
+
+.news-card {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #020617;
+    color: white;
+}
